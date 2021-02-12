@@ -6,3 +6,7 @@ var euroToYen = function(euroValue){
 }
 //***** YOUR CODE BELOW ******///
 
+let cal1 = dollarToEuro(137);
+let yen = euroToYen(cal1);
+
+console.log(yen);
